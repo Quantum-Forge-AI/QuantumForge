@@ -104,7 +104,8 @@ We welcome all cyber enthusiasts!
 
 ## 🔗 **Connect with Us**  
 - **Website**: [Coming Soon]  
-- **Twitter**: [@QuantumForge_AI](#)  
+- **Twitter**: [@QuantumForgeAI](#)  
+- **Discord**: [Join the Forge](#)  
 
 ---
 
